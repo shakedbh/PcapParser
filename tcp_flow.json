@@ -1,0 +1,144 @@
+[
+    {
+        "flow_key": "34.107.221.82:80 - 192.168.30.128:50098",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "34.107.221.82:80 - 192.168.30.128:50106",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "192.168.30.128:39394 - 82.102.152.43:80",
+        "Requests": [],
+        "Responses": [
+            "Ether / IP / TCP / HTTP / 'POST' '/' 'HTTP/1.1' / Raw",
+            "Ether / IP / TCP / HTTP / 'POST' '/' 'HTTP/1.1' / Raw",
+            "Ether / IP / TCP / HTTP / 'POST' '/' 'HTTP/1.1' / Raw",
+            "Ether / IP / TCP / HTTP / 'POST' '/' 'HTTP/1.1' / Raw"
+        ]
+    },
+    {
+        "flow_key": "82.102.152.43:80 - 192.168.30.128:39394",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw",
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw",
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw",
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "192.168.30.128:56208 - 192.229.221.95:80",
+        "Requests": [],
+        "Responses": [
+            "Ether / IP / TCP / HTTP / 'POST' '/' 'HTTP/1.1' / Raw"
+        ]
+    },
+    {
+        "flow_key": "192.229.221.95:80 - 192.168.30.128:56208",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "192.168.30.128:59632 - 142.251.142.195:80",
+        "Requests": [],
+        "Responses": [
+            "Ether / IP / TCP / HTTP / 'POST' '/gts1c3' 'HTTP/1.1' / Raw",
+            "Ether / IP / TCP / HTTP / 'POST' '/gts1c3' 'HTTP/1.1' / Raw"
+        ]
+    },
+    {
+        "flow_key": "192.168.30.128:59644 - 142.251.142.195:80",
+        "Requests": [],
+        "Responses": [
+            "Ether / IP / TCP / HTTP / 'POST' '/gts1c3' 'HTTP/1.1' / Raw"
+        ]
+    },
+    {
+        "flow_key": "142.251.142.195:80 - 192.168.30.128:59632",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw",
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "142.251.142.195:80 - 192.168.30.128:59644",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "192.168.30.128:59646 - 142.251.142.195:80",
+        "Requests": [],
+        "Responses": [
+            "Ether / IP / TCP / HTTP / 'POST' '/gts1c3' 'HTTP/1.1' / Raw"
+        ]
+    },
+    {
+        "flow_key": "192.168.30.128:59660 - 142.251.142.195:80",
+        "Requests": [],
+        "Responses": [
+            "Ether / IP / TCP / HTTP / 'POST' '/gts1c3' 'HTTP/1.1' / Raw"
+        ]
+    },
+    {
+        "flow_key": "142.251.142.195:80 - 192.168.30.128:59660",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "142.251.142.195:80 - 192.168.30.128:59646",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "192.168.30.128:47478 - 192.229.221.95:80",
+        "Requests": [],
+        "Responses": [
+            "Ether / IP / TCP / HTTP / 'POST' '/' 'HTTP/1.1' / Raw"
+        ]
+    },
+    {
+        "flow_key": "192.229.221.95:80 - 192.168.30.128:47478",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "192.168.30.128:47294 - 82.102.152.42:80",
+        "Requests": [],
+        "Responses": [
+            "Ether / IP / TCP / HTTP / 'POST' '/' 'HTTP/1.1' / Raw"
+        ]
+    },
+    {
+        "flow_key": "82.102.152.42:80 - 192.168.30.128:47294",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw"
+        ],
+        "Responses": []
+    },
+    {
+        "flow_key": "93.184.216.34:80 - 192.168.30.128:42076",
+        "Requests": [
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '200' 'OK' / Raw",
+            "Ether / IP / TCP / HTTP / 'HTTP/1.1' '404' 'Not Found' / Raw"
+        ],
+        "Responses": []
+    }
+]

@@ -1,0 +1,5 @@
+[2023-08-05 06:23:35] - [PcapParser] - [INFO] --- The count of packets in 'PCAPFiles/example.com.pcap': 1087
+[2023-08-05 06:23:36] - [PcapParser] - [INFO] --- The count of sessions in 'PCAPFiles/example.com.pcap': 206
+[2023-08-05 06:23:36] - [PcapParser] - [INFO] --- The count of DNS queries in 'PCAPFiles/example.com.pcap': 142
+[2023-08-05 06:23:37] - [Functions] - [INFO] --- Created 'tcp_flow.json' successfully.
+[2023-08-05 06:23:37] - [PcapParser] - [INFO] --- The TCP-FLOW is in: tcp_flow.json file.
